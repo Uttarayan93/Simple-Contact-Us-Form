@@ -1,0 +1,13 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5%;
+  /* border: 1px solid black; */
+}
+
+.links a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
